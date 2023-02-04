@@ -1,9 +1,10 @@
 administrator
 admin
+adm
 root
 user
 guest
 test
-adm
+demo
 info
 backup
